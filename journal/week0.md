@@ -10,5 +10,5 @@ used below mentioned steps for manual integration aws toolkit with vscode (inclu
 https://www.sqlshack.com/getting-started-with-aws-toolkit-for-visual-studio-code/
 ```
 ## Picture proof for Homework -Lucid charts & other 
-![lucid chart aws arch diagram](assets/week0_lucid_aws_arch.jpeg)
+![lucid chart aws arch diagram](_docs/assets/week0_lucid_aws_arch.jpeg)
 
